@@ -30,4 +30,5 @@ ggplot() +
     scale_color_identity() +
     coord_map("polyconic") +
     theme_void() +
-    theme(legend.position="none")
+    theme(legend.position="none") + 
+    png("states.png", width=800, height=600)
