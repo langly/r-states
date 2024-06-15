@@ -1,4 +1,4 @@
-Package: r-states
+Package: rstates
 Title: Plots visited states
 Description: This r-script plots all the US states I've visited.
 Imports:
