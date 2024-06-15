@@ -1,0 +1,8 @@
+Package: r-states
+Title: Plots visited states
+Description: This r-script plots all the US states I've visited.
+Imports:
+	ggplot2,
+	maps,
+	mapdata,
+	mapproj
